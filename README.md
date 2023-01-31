@@ -2,6 +2,10 @@
 
 A grocery Mobile application UI of 2 screens
 
+###  In this project i just intagrated Google map for direction.
+
+###  Domain driven design architecture was followed.
+
 ## OUTPUT:-
 
 

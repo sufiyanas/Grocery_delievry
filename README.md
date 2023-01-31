@@ -1,8 +1,18 @@
 # grocery_delivary
 
-A new Flutter project.
+A grocery Mobile application UI of 2 screens
 
-## Getting Started
+## OUTPUT:-
+
+
+![Grocary Design image-1](https://user-images.githubusercontent.com/76591972/215733147-b9f8a170-e6b0-4a31-be5b-3cf6bee3995c.jpg)
+
+## ScreenShot - 1 
+
+![Grocery Design image-2](https://user-images.githubusercontent.com/76591972/215733309-085ee9ca-7764-496a-9835-ce4f2e88e875.jpg)
+
+## ScreenShot - 2
+
 
 This project is a starting point for a Flutter application.
 
